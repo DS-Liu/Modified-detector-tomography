@@ -1,5 +1,4 @@
-# Modified Quantum Detector Tomography
-
+# Optimized detector tomography for photon-number-resolving detectors with hundreds of pixels
 #### Description
 1. We proposed a modified form for detector romography, see ```Tomography-of-quantum-detector.ipynb```
 $$\hspace{12em}\mathrm{min}\quad \frac{1}{2}\|P-F\varPi\|^2_{\mathrm{Fro}} + \frac{\gamma}{2}\sum_{k=0}^{M-1}\sum_{n=0}^{N}(\varPi_{k,n}-\varPi_{k+1,n})^2$$
